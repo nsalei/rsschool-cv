@@ -1,3 +1,6 @@
+
+
+
 # Natalia Salei
 ________________
 ### Contacts
@@ -7,7 +10,7 @@ ________________
 **LinkedIn:** [click here](https://www.linkedin.com/in/natalia-salei/)
 ________________
 ### About me
-I have 3 years of experience working in international fintech companies as a AML/KYC specialist. It made me a detail–oriented individual with great problem-solving thinking and strong data analysis knowlege.
+I have 3 years of experience working in an international fintech companies as a AML/KYC specialist. It made me a detail–oriented individual with great problem-solving thinking and strong data analysis knowlege.
 
 However, I became interested in a profession of Frontend Developer and decided to devote myself to studying this area. It gives great opportunities to develop tecnical skills, work in international teams and meet professionals.
 ________
